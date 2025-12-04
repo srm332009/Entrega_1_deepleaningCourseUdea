@@ -21,3 +21,6 @@ Fuente: Zenodo
 Enlace: https://zenodo.org/records/16420123
 
 Descripción: Contiene más de 1,500 imágenes térmicas anotadas, capturadas por drones, listas para ser usadas en tareas de aprendizaje supervisado.
+
+Sustentacion del proyecto final 
+https://www.youtube.com/watch?v=UU00IGP0FEE 
